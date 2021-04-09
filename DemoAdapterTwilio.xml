@@ -10,7 +10,5 @@
   </section>
   <section sortOrder="1" name="reqDialingOptions" label="Dialing Options">
     <item sortOrder="0" name="reqOutsidePrefix" label="Outside Prefix">9</item>
-    <item sortOrder="1" name="reqLongDistPrefix" label="Long Distance Prefix">1</item>
-    <item sortOrder="2" name="reqInternationalPrefix" label="International Prefix">01</item>
   </section>
 </callCenter>
